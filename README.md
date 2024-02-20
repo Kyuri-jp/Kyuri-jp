@@ -4,6 +4,7 @@
 
 # Repositories
 - [Minecraft Distribution Map Liquidatiner](https://github.com/Kyuri-jp/Minecraft-Distribution-Map-Liquidationer)
+- [Project Attack!](https://github.com/Kyuri-jp/AttackDatapackAndResourcepack)
 
 # Stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Kyuri-jp&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
