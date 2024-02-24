@@ -1,6 +1,8 @@
 # 自己紹介
 マインクラフトの配布マップを作ったり,ちょっとしたアプリ作ったりしてます。
 > Favorite Language C# > mcfunction >>> Java > Kotlin
+> 
+> Have Used Other Language Pyhton JavaScript Ruby HTML CSS
 
 # Repositories
 - [Minecraft Distribution Map Liquidatiner](https://github.com/Kyuri-jp/Minecraft-Distribution-Map-Liquidationer)
