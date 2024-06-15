@@ -6,8 +6,8 @@
 
 # Repositories
 - [Minecraft Distribution Map Liquidatiner](https://github.com/Kyuri-jp/Minecraft-Distribution-Map-Liquidationer)
-- [Datapack Loaded Messenger]([https://github.com/Kyuri-jp/AttackDatapackAndResourcepack](https://github.com/Kyuri-jp/Datapack-Loaded-Messenger))
-- [Minecraft Pack Compressor]([https://github.com/Kyuri-jp/AttackDatapackAndResourcepack](https://github.com/Kyuri-jp/MinecraftPackCompressor))
+- [Datapack Loaded Messenger](https://github.com/Kyuri-jp/Datapack-Loaded-Messenger)
+- [Minecraft Pack Compressor](https://github.com/Kyuri-jp/MinecraftPackCompressor)
 - [Project Attack!](https://github.com/Kyuri-jp/AttackDatapackAndResourcepack)
 
 # Stats
